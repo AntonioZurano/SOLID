@@ -23,7 +23,7 @@ class Empleados():
         nombre, cargo, salario = datos_empleados.split(",")
         return cls(nombre, cargo, float(salario))
     @staticmethod
-    def es_feriado(self,dia):
+    def es_feriado(dia):
         feriados = [1,10,27]
         return dia in feriados
     
