@@ -15,6 +15,7 @@ SOLID es un conjunto de principios de diseño en la programación orientada a ob
 
 ## 📂 Contenido
 
+- 📁 `Introduccion_POO/` → Ejemplos y explicaciones de Programación Orientada a Objetos (POO).
 - 📁 `srp/` → Ejemplos y explicaciones del principio de Responsabilidad Única.
 - 📁 `ocp/` → Implementaciones del principio Abierto/Cerrado.
 - 📁 `lsp/` → Aplicación del principio de Sustitución de Liskov.
