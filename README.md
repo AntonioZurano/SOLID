@@ -6,7 +6,8 @@ Este repositorio contiene ejemplos prácticos y explicaciones sobre los principi
 
 SOLID es un conjunto de principios de diseño en la programación orientada a objetos que ayudan a crear código más limpio, mantenible y escalable.
 
-### 🔹 Principios SOLID:
+### 🔹 Principios SOLID
+
 1. **S** - Single Responsibility Principle (SRP) - Principio de Responsabilidad Única
 2. **O** - Open/Closed Principle (OCP) - Principio de Abierto/Cerrado
 3. **L** - Liskov Substitution Principle (LSP) - Principio de Sustitución de Liskov
