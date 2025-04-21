@@ -1,4 +1,4 @@
-# SOLID Principles in Python
+# SOLID Principios en Python
 
 Este repositorio contiene ejemplos prácticos y explicaciones sobre los principios SOLID en Python.
 
@@ -28,5 +28,5 @@ SOLID es un conjunto de principios de diseño en la programación orientada a ob
 Clona el repositorio con:
 
 ```bash
-git clone https://github.com/TU_USUARIO/SOLID.git
+git clone https://github.com/AntoniZurano/SOLID.git
 
